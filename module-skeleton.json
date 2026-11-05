@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-plugin-hosting-nuxt",
+  "capabilityKey": "liberusoftware/music-plugin-hosting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-plugin-hosting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/plugin-hosting.md",
+  "presentationPlan": "projects/music/nuxt/plugin-hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
